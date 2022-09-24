@@ -43,10 +43,10 @@ font-size: 22px;
 .button-cta {
     height: 40px;
     margin-top: 40px;
-    background-color: rgb(29, 178, 158);
+    background-color: rgb(180, 42, 49);
     border: 0;
     border-radius: 4px;
-    color: rgb(40, 184, 83);
+    color: rgb(255, 255, 255);
     font-size: 20px;
     font-weight: bold;
     cursor: pointer;
